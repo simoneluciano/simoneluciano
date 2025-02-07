@@ -6,6 +6,10 @@
 - 😄 Pronomes: ela/dela.
 
 - 
+
+
 ![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=simoneluciano&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simoneluciano&langs_count=10)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simoneluciano&langs_count=10&layout=compact&theme=transparent)
+
 
