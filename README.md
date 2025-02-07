@@ -4,4 +4,6 @@
 - 🌱 Estudando: HTML, CSS, JavaScript.
 - 📫 Como chegar até mim: simoneluciano420@gmail.com.
 - 😄 Pronomes: ela/dela.
+
+- 
 ![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=simoneluciano&show_icons=true&theme=transparent)
